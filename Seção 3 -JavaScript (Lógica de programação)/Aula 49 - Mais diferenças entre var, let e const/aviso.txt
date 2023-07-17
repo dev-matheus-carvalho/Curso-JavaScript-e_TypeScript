@@ -1,0 +1,2 @@
+A aula foi apenas para enfatizar as diferenças entre let, var e const.
+Foi necessarimente sobre redeclarações e escopo.
