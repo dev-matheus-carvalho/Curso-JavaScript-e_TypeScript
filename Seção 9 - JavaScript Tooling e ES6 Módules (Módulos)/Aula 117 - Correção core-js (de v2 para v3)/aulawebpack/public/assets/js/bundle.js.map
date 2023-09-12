@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,SAASC,iBAAiB,SAAS,SAAAC,GAC/BC,QAAQC,IAAIF,EAAMG,OACtB","sources":["webpack://aulawebpack/./src/index.js"],"sourcesContent":["document.addEventListener('click', event => {\r\n    console.log(event.target);\r\n});"],"names":["document","addEventListener","event","console","log","target"],"sourceRoot":""}
