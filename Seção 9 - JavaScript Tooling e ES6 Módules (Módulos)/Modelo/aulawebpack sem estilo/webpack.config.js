@@ -2,7 +2,7 @@ const path = require('path'); // CommonJS
 
 module.exports = {
     mode: 'production',
-    entry: path.resolve(__dirname, 'src', 'main'),
+    entry: path.resolve(__dirname, 'src', 'index'),
     output: {
         path: path.resolve(__dirname, 'public', 'assets', 'js'),
         filename: 'bundle.js'
@@ -17,9 +17,6 @@ module.exports = {
                     presets: ['@babel/env']
                 }
             }
-        }, {
-            test: /\.css$/,
-            use: ['style-loader', 'css-loader']
         }]
     },
     devtool: 'source-map'

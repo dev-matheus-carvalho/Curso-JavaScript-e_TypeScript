@@ -2,7 +2,7 @@
   "name": "aulawebpack",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "dev": "webpack -w"
   },
@@ -19,8 +19,6 @@
   },
   "dependencies": {
     "core-js": "^3.32.2",
-    "css-loader": "^6.8.1",
-    "regenerator-runtime": "^0.14.0",
-    "style-loader": "^3.3.3"
+    "regenerator-runtime": "^0.14.0"
   }
 }
