@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log(function(){return(arguments.length>0&&void 0!==arguments[0]?arguments[0]:0)*(arguments.length>1&&void 0!==arguments[1]?arguments[1]:0)}(3,2))})();
+document.addEventListener("click",(function(e){console.log(e.target)}));
 //# sourceMappingURL=bundle.js.map
