@@ -1,0 +1,1 @@
+Aula introdutória explicando o que é TypeScript
