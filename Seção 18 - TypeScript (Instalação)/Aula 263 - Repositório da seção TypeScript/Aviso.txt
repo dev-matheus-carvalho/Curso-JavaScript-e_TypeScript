@@ -1,0 +1,2 @@
+Repositório da seção TypeScript
+Conforme informei anteriormente, qualquer código digitado nessa seção poderá ser encontrado em: https://github.com/luizomf/cursojstypescript
