@@ -1,0 +1,5 @@
+As aulas de 287 a 291 são de configurações de webpack.
+Tais configurações visam a manipulação do DOM não separando o
+backend do frontend. Para isso, decidi pular tais sessões, pois viso 
+a construção do backend em Node Express e o frontend em Angular ou
+quaisquer frameworks existenst que queira usar.
