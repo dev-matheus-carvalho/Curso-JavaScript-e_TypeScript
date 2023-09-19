@@ -1,0 +1,2 @@
+Aula abordando assuntos de HTML e CSS junto com o
+TypeScript, fugindo assim do treinamento exigido
